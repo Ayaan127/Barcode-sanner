@@ -1,1 +1,1 @@
-# Barcode-sanner
+# QR-Code-Scanner
